@@ -20,7 +20,7 @@
 <?import javafx.scene.control.TextArea?>
 <GridPane fx:id="FrontPanel" alignment="CENTER"
           maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity"
-          prefHeight="450.0" prefWidth="1000.0"
+          prefHeight="500.0" prefWidth="1200.0"
           xmlns="http://javafx.com/javafx/"
           xmlns:fx="http://javafx.com/fxml/1"
           fx:controller="increment.simulator.userInterface.FrontPanelController"
